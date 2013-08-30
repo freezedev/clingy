@@ -1,0 +1,28 @@
+{
+  "name": "clingy",
+  "version": "0.1.0",
+  "homepage": "https://github.com/freezedev/clingy",
+  "authors": [
+    "Johannes Stein <johannesstein@freeze-dev.com>"
+  ],
+  "description": "Providing two-way data bindings between an object and a DOM element",
+  "main": "dist/clingy.js",
+  "keywords": [
+    "data",
+    "bind",
+    "dom",
+    "object",
+    "binding"
+  ],
+  "license": "UNLICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "datastore": "~0.1.1"
+  }
+}
